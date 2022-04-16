@@ -1,0 +1,8 @@
+Osiedle Kabackie w Warszawa
+[Chopina 223, Chopina 224, Okrezna 3221]
+Chopina 223
+[Mieszkanie nr: 1, Mieszkanie nr: 2, Mieszkanie nr: 3]
+Chopina 224
+[Mieszkanie nr: 4]
+Okrezna 3221
+[Mieszkanie nr: 5]
